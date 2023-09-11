@@ -1,4 +1,4 @@
-package com.rn_test;
+package com.rn_test.testbuild;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

@@ -1,4 +1,4 @@
-package com.rn_test;
+package com.rn_test.testbuild;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
